@@ -1,0 +1,8 @@
+@media (max-width: 768px) {
+    .form-contact{
+        /* margin: 10px 10px 30px 10px !important; */
+        /* margin: 80px 8px 20px 8px !important; */
+        margin: 100px 12px 32px 8px !important;
+        width: 95%;
+    }
+}
